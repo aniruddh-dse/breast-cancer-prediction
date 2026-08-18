@@ -34,7 +34,7 @@ data, pick a model, and view its metrics and confusion matrix.
 
 ## c. GitHub repository link
 
-`https://github.com/<your-username>/<your-repo>`  ← **replace with your repo URL**
+`https://github.com/<your-username>/<your-repo>](https://github.com/aniruddh-dse/breast-cancer-prediction.git`
 
 Repository contents:
 
