@@ -34,7 +34,7 @@ data, pick a model, and view its metrics and confusion matrix.
 
 ## c. GitHub repository link
 
-`https://github.com/<your-username>/<your-repo>](https://github.com/aniruddh-dse/breast-cancer-prediction.git`
+`https://github.com/aniruddh-dse/breast-cancer-prediction.git`
 
 Repository contents:
 
@@ -104,7 +104,7 @@ on the cloud), so deployment does not fail.
 
 ## Live Streamlit app link
 
-`https://<your-app-name>.streamlit.app`  ← **replace with your deployed app URL**
+`https://fsza3z2lu24fxr6bbfc2su.streamlit.app/'
 
 ## How to run
 
